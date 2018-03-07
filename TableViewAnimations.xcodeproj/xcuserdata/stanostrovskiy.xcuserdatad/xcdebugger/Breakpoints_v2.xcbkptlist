@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewAnimationsTests/TableViewAnimationsTests.swift"
+            timestampString = "542132310.331759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "testInsertSection()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewAnimationsTests.TableViewAnimationsTests.testInsertSection() -&gt; ()"
+                  moduleName = "TableViewAnimationsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanostrovskiy/Desktop/TableViewAnimations/TableViewAnimationsTests/TableViewAnimationsTests.swift"
+                  timestampString = "541887039.326497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "863">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in TableViewAnimationsTests.TableViewAnimationsTests.testInsertSection() -&gt; ()"
+                  moduleName = "TableViewAnimationsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanostrovskiy/Desktop/TableViewAnimations/TableViewAnimationsTests/TableViewAnimationsTests.swift"
+                  timestampString = "541887039.328851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
